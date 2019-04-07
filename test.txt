@@ -1,0 +1,1 @@
+ini string mulai 12345 akhir
