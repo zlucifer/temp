@@ -1,1 +1,1 @@
-ini string mulai 12345 akhir
+ini string mulai 12345 akhir&last string
